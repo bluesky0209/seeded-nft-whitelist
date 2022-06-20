@@ -1,0 +1,2 @@
+#header{display:flex;justify-content:flex-end}#main #title{font-size:2rem;color:#00f3ff}#main #dataSection{border:2px solid #51d3c1;border-radius:18px;padding:1rem;margin-top:1rem}#main #statusData{padding:1rem}#main #actionSection{margin-top:1rem}#main #actionSection #depositSection,#main #actionSection #withdrawSection{display:flex}#main #actionSection #approveAct{display:flex;justify-content:space-around}#main #userSection,#main #userSection #userList{margin-top:1rem}
+/*# sourceMappingURL=main.fe93dcc4.chunk.css.map */

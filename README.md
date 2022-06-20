@@ -1,0 +1,1 @@
+# seeded-nft-whitelist
